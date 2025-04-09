@@ -1,6 +1,6 @@
 # 🔐 Discord Token Login Bookmarklet (Educational Use Only)
 
- ⚠️ **Disclaimer:**  
+ ## ⚠️ Disclaimer:
  This project is for **educational and personal testing purposes only**.  
  It is not intended for misuse, unauthorized access, or any activity that violates Discord's Terms of Service.  
  **Do NOT use this with any token other than your own.**  

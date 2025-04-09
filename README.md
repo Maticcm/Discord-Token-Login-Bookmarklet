@@ -1,10 +1,11 @@
 # 🔐 Discord Token Login Bookmarklet (Educational Use Only)
 
-> ⚠️ **Disclaimer:**  
-> This project is for **educational and personal testing purposes only**.  
-> It is not intended for misuse, unauthorized access, or any activity that violates Discord's Terms of Service.  
-> **Do NOT use this with any token other than your own.**  
-> Public distribution or use of this script for malicious purposes is strictly prohibited.
+ ⚠️ **Disclaimer:**  
+ This project is for **educational and personal testing purposes only**.  
+ It is not intended for misuse, unauthorized access, or any activity that violates Discord's Terms of Service.  
+ **Do NOT use this with any token other than your own.**  
+ Public distribution or use of this script for malicious purposes is strictly prohibited.
+ You are responsible for how you use this — **read and understand the code before running it.**
 
 ## 📌 What is this?
 

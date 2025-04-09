@@ -35,7 +35,7 @@ The script:
 7. The page will reload and log you in.
 
 ### Method 2: Drag-and-Drop
-1. Open [this page]([https://maticcm.github.io/Discord-Token-Login-Bookmarklet/](https://maticcm.github.io/discordtokenlogin/)) in your browser.
+1. Open [this page](https://maticcm.github.io/Discord-Token-Login-Bookmarklet/) in your browser.
 2. Drag the **"Discord Token Login"** button to your bookmarks bar.
 3. Go to [https://discord.com/login](https://discord.com/login).
 4. Click the bookmarklet and enter your token when prompted.

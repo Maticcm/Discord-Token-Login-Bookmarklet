@@ -23,6 +23,18 @@ The script:
 
 ---
 
+## 🚀 How to Use
+
+1. Copy the bookmarklet code.
+2. Create a new bookmark in your browser.
+3. Paste the code into the URL field of the bookmark.
+4. Go to [https://discord.com/login](https://discord.com/login).
+5. Click the bookmark.
+6. When prompted, enter/paste your Discord token.
+7. The page will reload and log you in.
+
+---
+
 ## 📎 Bookmarklet Code
 
 Paste this as the URL of a bookmark in your browser:
